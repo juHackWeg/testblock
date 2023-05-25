@@ -20,7 +20,7 @@ class block_testblock extends block_base {
         $searchTerm = "Moodle Blocks";
 
         // API Key and Search Engine ID
-        $apiKey = 'AIzaSyA7mb01m1OmknXQbbvclNkjJm51zYpBXDs';
+        $apiKey = ''; // Enter your API Key here
         $searchEngineId = '36e7c6cc2801d7e56';
 
         // API endpoint
